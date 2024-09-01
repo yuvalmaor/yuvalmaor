@@ -11,7 +11,7 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 ## 🔭 Projects
 
 - **[Project Name](link-to-project):** Brief description of the project and its goals.
-- **[Open-Source Contribution](link-to-contribution):** Contribution details.
+
 
 ## 🌱 Currently Learning
 
