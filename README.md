@@ -4,8 +4,8 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 
 ## 🚀 Skills
 
-- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, Git
-- **Cloud Platforms**: AWS (SAA Certified), Azure
+- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, Git and many more
+- **Cloud Platforms**: AWS (SAA Certified), GCP
 - **Languages**: Bash, Python, etc.
 
 ## 🔭 Projects
