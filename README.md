@@ -25,5 +25,5 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 
 ## 🏆 Achievements
 
-- **AWS Certified Solutions Architect - Associate (SAA)**(https://www.credly.com/badges/5cb5e0ef-f2d4-4fa7-b3a9-fd6565675085/public_url)
+- **[AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/5cb5e0ef-f2d4-4fa7-b3a9-fd6565675085/public_url)**
 - Completed various DevOps projects using CI/CD pipelines and container orchestration
