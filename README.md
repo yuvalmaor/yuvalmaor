@@ -10,7 +10,7 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 
 ## 🔭 Projects
 
-- **[DevOps TODO](link-to-project):** full devops project.
+- **[DevOps TODO](https://github.com/yuvalmaor/devops-portfolio):** full devops project.
 
 
 ## 🌱 Currently Learning
