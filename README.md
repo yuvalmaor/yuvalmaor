@@ -11,6 +11,7 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 ## 🔭 Projects
 
 - **[DevOps TODO](https://github.com/yuvalmaor/devops-portfolio):** full devops project.
+- **[SuperDash](https://github.com/yuvalmaor/superdash):** AI-powered project management platform that integrates Claude AI agents into a Kanban-style board. Agents autonomously manage tasks, interact with Git repositories, and execute inside isolated Docker containers. Built with Next.js, TypeScript, Prisma, and the Anthropic SDK — featuring real-time streaming via SSE and configurable agent capabilities.
 
 
 ## 🌱 Currently Learning
@@ -26,4 +27,5 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 ## 🏆 Achievements
 
 - **[AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/5cb5e0ef-f2d4-4fa7-b3a9-fd6565675085/public_url)**
+- **[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/ffeddbdc-4df9-4d3c-b5df-67ff086ad513/public_url)**
 - Completed various DevOps projects using CI/CD pipelines and container orchestration
