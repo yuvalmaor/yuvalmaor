@@ -11,7 +11,7 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 ## 🔭 Projects
 
 - **[DevOps TODO](https://github.com/yuvalmaor/devops-portfolio):** full devops project.
-- **[SuperDash](https://github.com/yuvalmaor/superdash):** AI-powered project management platform that integrates Claude AI agents into a Kanban-style board. Agents autonomously manage tasks, interact with Git repositories, and execute inside isolated Docker containers. Built with Next.js, TypeScript, Prisma, and the Anthropic SDK — featuring real-time streaming via SSE and configurable agent capabilities.
+- **[SuperDash](https://github.com/yuvalmaor/superdash):** (private code)AI-powered project management platform that integrates Claude AI agents into a Kanban-style board. Agents autonomously manage tasks, interact with Git repositories, and execute inside isolated Docker containers. Built with Next.js, TypeScript, Prisma, and the Anthropic SDK — featuring real-time streaming via SSE and configurable agent capabilities.
 
 
 ## 🌱 Currently Learning
