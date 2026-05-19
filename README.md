@@ -21,8 +21,8 @@ I'm a **DevOps enthusiast** passionate about automating infrastructure and conti
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/yuval-maor/)
-- [Email](mailto:yuvalmaor305@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/youval-mejerowicz/)
+- [Email](mailto:youvalmejerowicz@gmail.com)
 
 ## 🏆 Achievements
 
